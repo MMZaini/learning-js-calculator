@@ -1,0 +1,16 @@
+.padd {
+  margin: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  color: black;
+}
+
+.pad {
+  padding-top: 35px;
+}
+
+.h1 {
+  padding-top: 10px;
+  padding-bottom: 10px
+}
